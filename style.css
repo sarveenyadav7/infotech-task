@@ -1,0 +1,326 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #1E1D32;
+    /* background-color: red; */
+}
+.wrapper{
+    width: 100%;
+    margin: 0 auto;
+}
+.container{
+    width: 970px;
+    /* height: auto; */
+    margin: 0 auto;
+}
+.top-bar{
+    width: 100%;
+    height: auto;
+    float: left;
+}
+.boxes{
+    width: 311px;
+    height: 311px;
+    /* border: 2px solid white; */
+    float: left;
+    margin: 0.6%;
+    margin-top: 20px;
+}
+.img-box{
+    width: 100%;
+    height: 232px;
+    float: left;
+    /* border: 2px solid red; */
+}
+.img-box img{
+    width: 100%;
+}
+.content-box{
+    width: 100%;
+    height: 79px;
+    float: left;
+    /* border: 2px solid greenyellow; */
+    background-color: #3DD0D8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content-box p{
+    font-size: 20px;
+    color: white;
+    font-family: 'Agency FB', arial;
+    font-weight: bold;
+}
+.content-box1{
+    width: 100%;
+    height: 79px;
+    float: left;
+    /* border: 2px solid greenyellow; */
+    background-color: #5C9DDD;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content-box1 p{
+    font-size: 20px;
+    color: white;
+    font-family: 'Agency FB', arial;
+    font-weight: bold;
+}
+.content-box2{
+    width: 100%;
+    height: 79px;
+    float: left;
+    /* border: 2px solid greenyellow; */
+    background-color: #7C69E3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.content-box2 p{
+    font-size: 20px;
+    color: white;
+    font-family: 'Agency FB', arial;
+    font-weight: bold;
+}
+.bottom-bar{
+    width: 100%;
+    height: auto;
+    float: left;
+    background-color: #292845;
+}
+.heading{
+    font-size: 32px;
+    color: white;
+    margin-top: 60px;
+    margin-left: 30px;
+    font-family: 'Agency FB', arial;
+    font-weight: bold;
+}
+.about-content{
+    width: 850px;
+    height: auto;
+    float: left;
+    /* border: 3px solid white; */
+    margin-top: 40px;
+    margin-left: 60px;
+}
+.circle{
+    width: 80px;
+    height: 80px;
+    background-color: #3A3630;
+    float: left;
+    border-radius: 50%;
+}
+.daniel-content{
+    width: 739px;
+    height: auto;
+    float: right;
+    /* border: 2px solid red; */
+}
+.daniel-content h1{
+    font-size: 24px;
+    color: white;
+    margin-top: 18px ;
+    font-family: 'Agency FB', arial;
+    font-weight: bold;
+}
+.daniel-content h2{
+    font-size: 14px;
+    color: #C2D4F8;
+    margin-top: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+.daniel-content p{
+    font-size: 15px;
+    color: #C2D4F8;
+    margin-top: 22px;
+    padding-bottom: 10px;
+    line-height: 1.4;
+    font-family: 'Roboto', sans-serif;
+    font-weight: light;
+}
+
+.about-content1{
+    width: 743px;
+    height: auto;
+    float: left;
+    /* border: 3px solid white; */
+    margin-top: 40px;
+    margin-left: 168px;
+}
+.circle{
+    width: 80px;
+    height: 80px;
+    background-color: #3A3630;
+    float: left;
+    border-radius: 50%;
+}
+.genevieve-content{
+    width: 631px;
+    height: auto;
+    float: right;
+    /* border: 2px solid red; */
+}
+.genevieve-content h1{
+    font-size: 24px;
+    color: white;
+    margin-top: 18px ;
+    font-family: 'Agency FB', arial;
+    font-weight: bold;
+}
+.genevieve-content h2{
+    font-size: 14px;
+    color: #C2D4F8;
+    margin-top: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+.genevieve-content p{
+    font-size: 15px;
+    color: #C2D4F8;
+    margin-top: 22px;
+    padding-bottom: 10px;
+    line-height: 1.4;
+    font-family: 'Roboto', sans-serif;
+    font-weight: light;
+    font-family: 'Roboto', sans-serif;
+    font-weight: light;
+}
+
+
+.about-content2{
+    width: 634px;
+    height: auto;
+    float: left;
+    /* border: 3px solid white; */
+    margin-top: 40px;
+    margin-left: 278px;
+}
+.circle{
+    width: 80px;
+    height: 80px;
+    background-color: #3A3630;
+    float: left;
+    border-radius: 50%;
+}
+.jesus-content{
+    width: 521px;
+    height: auto;
+    float: right;
+    /* border: 2px solid red; */
+}
+.jesus-content h1{
+    font-size: 24px;
+    color: white;
+    margin-top: 18px ;
+    font-family: 'Agency FB', arial;
+    font-weight: bold;
+}
+.jesus-content h2{
+    font-size: 14px;
+    color: #C2D4F8;
+    margin-top: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+.jesus-content p{
+    font-size: 15px;
+    color: #C2D4F8;
+    margin-top: 22px;
+    padding-bottom: 10px;
+    line-height: 1.4;
+    font-family: 'Roboto', sans-serif;
+    font-weight: light;
+}
+form{
+    width: 850px;
+    height: auto;
+    float: left;
+    margin: 40px 0 20px 30px;
+    /* border: 2px solid white; */
+}
+.form-heading{
+    font-size: 32px;
+    color: white;
+}
+input{
+    width: 270px;
+    height: 55px;
+    float: left;
+    background-color: black;
+    margin-top: 34px;
+    margin-left: 1.1%;
+}
+input::placeholder{
+    padding-left: 31px;
+    font-size: 14px;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+}
+textarea{
+    width: 829px;
+    height: auto;
+    float: left;
+    margin-left: 1.1%;
+    margin-top: 20px;
+    /* border: 2px solid white; */
+    background-color: black;
+}
+textarea::placeholder{
+    padding-top: 10px;
+    padding-left: 32px;
+    font-size: 14.5px;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    font-weight: lighter;
+}
+button{
+    padding: 16px;
+    background: linear-gradient(to right, #6CD7E5, #9D86ED);
+    border-radius: 14px;
+    margin-left: 1.1%;
+    margin-top: 20px;
+
+}
+
+@media screen and (min-width: 320px) and (max-width: 700px) {
+    .boxes{
+        width: 100%;
+        height: auto;
+    }
+    .img-box{
+        width: 100%;
+    height: 655px;
+    float: left;
+    }
+    .content-box, .content-box1, .content-box2{
+        width: 100%;
+        height: auto;
+    }
+    .content-box p{
+        font-size: 100px;
+    }
+    .content-box1 p{
+        font-size: 100px;
+    }
+    .content-box2 p{
+        font-size: 100px;
+    }
+    .heading{
+        text-align: center;
+    font-size: 100px;
+    }
+
+}
+@media screen and (min-width: 1281px) and (max-width:5000px) {
+    
+}
+
+
+
+
