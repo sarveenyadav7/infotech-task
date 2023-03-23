@@ -1,27 +1,32 @@
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-body{
+
+body {
     background-color: #1E1D32;
     /* background-color: red; */
 }
-.wrapper{
+
+.wrapper {
     width: 100%;
     margin: 0 auto;
 }
-.container{
+
+.container {
     width: 970px;
     /* height: auto; */
     margin: 0 auto;
 }
-.top-bar{
+
+.top-bar {
     width: 100%;
     height: auto;
     float: left;
 }
-.boxes{
+
+.boxes {
     width: 311px;
     height: 311px;
     /* border: 2px solid white; */
@@ -29,16 +34,19 @@ body{
     margin: 0.6%;
     margin-top: 20px;
 }
-.img-box{
+
+.img-box {
     width: 100%;
     height: 232px;
     float: left;
     /* border: 2px solid red; */
 }
-.img-box img{
+
+.img-box img {
     width: 100%;
 }
-.content-box{
+
+.content-box {
     width: 100%;
     height: 79px;
     float: left;
@@ -48,13 +56,15 @@ body{
     justify-content: center;
     align-items: center;
 }
-.content-box p{
+
+.content-box p {
     font-size: 20px;
     color: white;
     font-family: 'Agency FB', arial;
     font-weight: bold;
 }
-.content-box1{
+
+.content-box1 {
     width: 100%;
     height: 79px;
     float: left;
@@ -64,13 +74,15 @@ body{
     justify-content: center;
     align-items: center;
 }
-.content-box1 p{
+
+.content-box1 p {
     font-size: 20px;
     color: white;
     font-family: 'Agency FB', arial;
     font-weight: bold;
 }
-.content-box2{
+
+.content-box2 {
     width: 100%;
     height: 79px;
     float: left;
@@ -80,19 +92,22 @@ body{
     justify-content: center;
     align-items: center;
 }
-.content-box2 p{
+
+.content-box2 p {
     font-size: 20px;
     color: white;
     font-family: 'Agency FB', arial;
     font-weight: bold;
 }
-.bottom-bar{
+
+.bottom-bar {
     width: 100%;
     height: auto;
     float: left;
     background-color: #292845;
 }
-.heading{
+
+.heading {
     font-size: 32px;
     color: white;
     margin-top: 60px;
@@ -100,7 +115,8 @@ body{
     font-family: 'Agency FB', arial;
     font-weight: bold;
 }
-.about-content{
+
+.about-content {
     width: 850px;
     height: auto;
     float: left;
@@ -108,34 +124,39 @@ body{
     margin-top: 40px;
     margin-left: 60px;
 }
-.circle{
+
+.circle {
     width: 80px;
     height: 80px;
     background-color: #3A3630;
     float: left;
     border-radius: 50%;
 }
-.daniel-content{
+
+.daniel-content {
     width: 739px;
     height: auto;
     float: right;
     /* border: 2px solid red; */
 }
-.daniel-content h1{
+
+.daniel-content h1 {
     font-size: 24px;
     color: white;
-    margin-top: 18px ;
+    margin-top: 18px;
     font-family: 'Agency FB', arial;
     font-weight: bold;
 }
-.daniel-content h2{
+
+.daniel-content h2 {
     font-size: 14px;
     color: #C2D4F8;
     margin-top: 10px;
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
 }
-.daniel-content p{
+
+.daniel-content p {
     font-size: 15px;
     color: #C2D4F8;
     margin-top: 22px;
@@ -145,7 +166,7 @@ body{
     font-weight: light;
 }
 
-.about-content1{
+.about-content1 {
     width: 743px;
     height: auto;
     float: left;
@@ -153,34 +174,39 @@ body{
     margin-top: 40px;
     margin-left: 168px;
 }
-.circle{
+
+.circle {
     width: 80px;
     height: 80px;
     background-color: #3A3630;
     float: left;
     border-radius: 50%;
 }
-.genevieve-content{
+
+.genevieve-content {
     width: 631px;
     height: auto;
     float: right;
     /* border: 2px solid red; */
 }
-.genevieve-content h1{
+
+.genevieve-content h1 {
     font-size: 24px;
     color: white;
-    margin-top: 18px ;
+    margin-top: 18px;
     font-family: 'Agency FB', arial;
     font-weight: bold;
 }
-.genevieve-content h2{
+
+.genevieve-content h2 {
     font-size: 14px;
     color: #C2D4F8;
     margin-top: 10px;
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
 }
-.genevieve-content p{
+
+.genevieve-content p {
     font-size: 15px;
     color: #C2D4F8;
     margin-top: 22px;
@@ -193,7 +219,7 @@ body{
 }
 
 
-.about-content2{
+.about-content2 {
     width: 634px;
     height: auto;
     float: left;
@@ -201,34 +227,39 @@ body{
     margin-top: 40px;
     margin-left: 278px;
 }
-.circle{
+
+.circle {
     width: 80px;
     height: 80px;
     background-color: #3A3630;
     float: left;
     border-radius: 50%;
 }
-.jesus-content{
+
+.jesus-content {
     width: 521px;
     height: auto;
     float: right;
     /* border: 2px solid red; */
 }
-.jesus-content h1{
+
+.jesus-content h1 {
     font-size: 24px;
     color: white;
-    margin-top: 18px ;
+    margin-top: 18px;
     font-family: 'Agency FB', arial;
     font-weight: bold;
 }
-.jesus-content h2{
+
+.jesus-content h2 {
     font-size: 14px;
     color: #C2D4F8;
     margin-top: 10px;
     font-family: 'Roboto', sans-serif;
     font-weight: bold;
 }
-.jesus-content p{
+
+.jesus-content p {
     font-size: 15px;
     color: #C2D4F8;
     margin-top: 22px;
@@ -237,18 +268,21 @@ body{
     font-family: 'Roboto', sans-serif;
     font-weight: light;
 }
-form{
+
+form {
     width: 850px;
     height: auto;
     float: left;
     margin: 40px 0 20px 30px;
     /* border: 2px solid white; */
 }
-.form-heading{
+
+.form-heading {
     font-size: 32px;
     color: white;
 }
-input{
+
+input {
     width: 270px;
     height: 55px;
     float: left;
@@ -256,13 +290,15 @@ input{
     margin-top: 34px;
     margin-left: 1.1%;
 }
-input::placeholder{
+
+input::placeholder {
     padding-left: 31px;
     font-size: 14px;
     font-family: 'Roboto', sans-serif;
     font-style: italic;
 }
-textarea{
+
+textarea {
     width: 829px;
     height: auto;
     float: left;
@@ -271,7 +307,8 @@ textarea{
     /* border: 2px solid white; */
     background-color: black;
 }
-textarea::placeholder{
+
+textarea::placeholder {
     padding-top: 10px;
     padding-left: 32px;
     font-size: 14.5px;
@@ -279,7 +316,8 @@ textarea::placeholder{
     font-style: italic;
     font-weight: lighter;
 }
-button{
+
+button {
     padding: 16px;
     background: linear-gradient(to right, #6CD7E5, #9D86ED);
     border-radius: 14px;
@@ -289,91 +327,141 @@ button{
 }
 
 @media screen and (min-width: 320px) and (max-width: 700px) {
-    .container{
+    .container {
         width: 100%;
     }
-    .top-bar{
+
+    .top-bar {
         width: 100%;
     }
-    .bottom-bar{
+
+    .bottom-bar {
         width: 100%;
     }
-    .boxes{
-        width: 100%;
+
+    .boxes {
+        width: 99%;
         height: auto;
     }
-    .img-box{
-        width: 100%;
-    height: 210px;
-    float: left;
-    }
-    .content-box, .content-box1, .content-box2{
+
+    .img-box {
         width: 100%;
         height: auto;
+        float: left;
+        margin-bottom: 20px;
     }
-    .content-box p{
+
+    .content-box,
+    .content-box1,
+    .content-box2 {
+        width: 100%;
+        height: auto;
+        padding: 10px;
+    }
+
+    .content-box p {
         font-size: 30px;
     }
-    .content-box1 p{
+
+    .content-box1 p {
         font-size: 30px;
     }
-    .content-box2 p{
+
+    .content-box2 p {
         font-size: 30px;
     }
-    .heading{
+
+    .heading {
         /* text-align: center; */
-    font-size: 30px;
-    }
-    .about-content{
-        width: 100%;
-    margin-left: 4px;
-    }
-    .circle{
-        width: 11%;
-    height: 35px;
-    }
-    .daniel-content{
-        width: 78%;
-    margin-top: -16px;
+        font-size: 30px;
     }
 
-    .about-content1{
-        width: 100%;
-    margin-left: 4px;
-    }
-    .circle{
-        width: 11%;
-    height: 35px;
-    }
-    .genevieve-content{
-        width: 78%;
-    margin-top: -16px;
+    .about-content {
+        width: 99%;
+        margin-left: 4px;
     }
 
-    .about-content2{
-        width: 100%;
-    margin-left: 4px;
-    }
-    .circle{
+    .circle {
         width: 11%;
-    height: 35px;
+        height: 35px;
     }
-    .jesus-content{
+
+    .daniel-content,
+    .genevieve-content,
+    .jesus-content {
         width: 78%;
-    margin-top: -16px;
+        margin-top: -16px;
+        float: left;
+        margin-left: 12px;
     }
-    form{
-        width: 100%;
+
+    .daniel-content h1 {
+        font-size: 28px;
     }
-    textarea{
+
+    .daniel-content h2 {
+        font-size: 17px;
+    }
+
+    .daniel-content p {
+        font-size: 18px;
+    }
+
+    .about-content1 {
+        width: 99%;
+        margin-left: 4px;
+    }
+
+    .genevieve-content h1 {
+        font-size: 28px;
+    }
+
+    .genevieve-content h2 {
+        font-size: 17px;
+    }
+
+    .genevieve-content p {
+        font-size: 18px;
+    }
+
+    .about-content2 {
+        width: 99%;
+        margin-left: 4px;
+    }
+
+    .circle {
+        width: 42px;
+        height: 42px;
+    }
+
+    .jesus-content h1 {
+        font-size: 28px;
+    }
+
+    .jesus-content h2 {
+        font-size: 17px;
+    }
+
+    .jesus-content p {
+        font-size: 18px;
+    }
+
+    form {
+        width: 90%;
+    }
+
+    input {
         width: 84%;
     }
 
+    textarea {
+        width: 84%;
+    }
+
+    .form-heading {
+        font-size: 28px;
+    }
+
 }
-@media screen and (min-width: 1281px) and (max-width:5000px) {
-    
-}
 
-
-
-
+@media screen and (min-width: 1281px) and (max-width:5000px) {}
