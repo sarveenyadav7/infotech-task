@@ -364,16 +364,16 @@ button {
     }
 
     .content-box1 p {
-        font-size: 30px;
+        font-size: 26px;
     }
 
     .content-box2 p {
-        font-size: 30px;
+        font-size: 26px;
     }
 
     .heading {
-        /* text-align: center; */
-        font-size: 30px;
+        text-align: center;
+        font-size: 26px;
     }
 
     .about-content {
@@ -459,7 +459,8 @@ button {
     }
 
     .form-heading {
-        font-size: 28px;
+        font-size: 26px;
+        text-align: center;
     }
 
 }
