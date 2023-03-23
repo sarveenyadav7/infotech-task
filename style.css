@@ -303,17 +303,17 @@ button{
         height: auto;
     }
     .content-box p{
-        font-size: 100px;
+        font-size: 30px;
     }
     .content-box1 p{
-        font-size: 100px;
+        font-size: 30px;
     }
     .content-box2 p{
-        font-size: 100px;
+        font-size: 30px;
     }
     .heading{
-        text-align: center;
-    font-size: 100px;
+        /* text-align: center; */
+    font-size: 30px;
     }
 
 }
