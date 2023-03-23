@@ -289,6 +289,7 @@ input {
     background-color: black;
     margin-top: 34px;
     margin-left: 1.1%;
+    border: none;
 }
 
 input::placeholder {
